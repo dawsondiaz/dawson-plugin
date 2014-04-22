@@ -1,0 +1,3 @@
+v1.0 Release!
+v1.1 User no longer remains on fire when healed.
+v1.2 Added /beam to teleport players.
