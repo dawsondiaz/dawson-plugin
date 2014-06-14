@@ -1,3 +1,4 @@
 v1.0 Release!
 v1.1 User no longer remains on fire when healed.
 v1.2 Added /beam to teleport players.
+v1.2.1 Built with craftbukkit-1.7.9-R0.1

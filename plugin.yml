@@ -1,6 +1,6 @@
 name: Dawson
 main: me.ihastechno.dawson.dawson
-version: 1.2
+version: 1.2.1
 description: >
              A simple plugin that provides extra commands, and fun to the game!
 commands:
